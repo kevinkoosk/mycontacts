@@ -8,5 +8,9 @@
 
 1. Upload everything to your server.
 2. Run initialize.php.
-3. Set up the admin user, and it will delete itself.
+3. Set up the admin user, after which initialize.php will be deleted.
 4. Use the app.
+
+## Disclaimer
+
+I'm not a coder, this was created with the assistance of AI.
